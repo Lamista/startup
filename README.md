@@ -1,5 +1,5 @@
 # startup
 
-#### lamista.github.io/startup/
+#### https://lamista.github.io/startup/
 
 CSS
